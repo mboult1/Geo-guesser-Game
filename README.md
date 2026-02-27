@@ -50,10 +50,6 @@ Then:
 npm run dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) and start guessing.
-
----
-
 ## The Math
 
 Country hit detection uses a two-step approach:
